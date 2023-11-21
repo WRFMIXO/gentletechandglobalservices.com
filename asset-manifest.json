@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gentletechandglobalservices.com/static/css/main.f855e6bc.css",
-    "main.js": "/gentletechandglobalservices.com/static/js/main.661a2ce1.js",
+    "main.css": "/gentletechandglobalservices.com/static/css/main.b1d7ec7b.css",
+    "main.js": "/gentletechandglobalservices.com/static/js/main.4bd0b486.js",
     "index.html": "/gentletechandglobalservices.com/index.html",
-    "main.f855e6bc.css.map": "/gentletechandglobalservices.com/static/css/main.f855e6bc.css.map",
-    "main.661a2ce1.js.map": "/gentletechandglobalservices.com/static/js/main.661a2ce1.js.map"
+    "main.b1d7ec7b.css.map": "/gentletechandglobalservices.com/static/css/main.b1d7ec7b.css.map",
+    "main.4bd0b486.js.map": "/gentletechandglobalservices.com/static/js/main.4bd0b486.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.661a2ce1.js"
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.4bd0b486.js"
   ]
 }
