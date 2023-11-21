@@ -5,9 +5,9 @@ import AppNavbar from './components/navbar';
 function App() {
   return (
     <div className="App">
+      < AppNavbar />
       <BrowserRouter>
           <Routes>
-            <Route path='/' element={<AppNavbar />} />
           </Routes>
       </BrowserRouter>
     </div>
